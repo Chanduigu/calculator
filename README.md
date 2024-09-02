@@ -1,2 +1,1 @@
-# calcualtor
-This code will lead to a calculator that works good with python code also has special features to work with the extra works on the results
+This code runs with a all arthematic operators and also has a specail feature where you can use the results to perfrom further operations
