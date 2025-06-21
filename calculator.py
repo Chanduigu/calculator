@@ -74,7 +74,7 @@ if new_operation=="yes":
     elif new_operation=="multiply":
         new_result=result*d
         print("multiplication of new numbers=",new_result)
-    elif new_operation=="powers":
+    elif new_operation=="power":
         new_result=result**d
         print("powers of new number=",new_result)
     elif new_operation=="modulo":
